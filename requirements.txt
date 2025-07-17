@@ -1,4 +1,6 @@
 streamlit
 matplotlib
-pandas
+opencv-python
 numpy
+pandas
+tensorflow  # if you're using Keras or deep learning
