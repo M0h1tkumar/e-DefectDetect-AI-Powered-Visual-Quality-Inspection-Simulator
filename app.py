@@ -30,7 +30,7 @@ LAST_CONV_LAYER_NAME_TENSORFLOW = 'vgg19' # <--- VERIFY/CHANGE THIS NAME
 # Directory for validation images for performance tracking - RESTORING
 # Create subfolders inside this directory, with each subfolder named after a class label
 # E.g., validation_data/crazing, validation_data/inclusion
-VALIDATION_IMAGES_DIR ='C:/Users/Mohit/OneDrive/Desktop/DEEPLOMENT/validation_data' # <--- IMPORTANT: SET THIS PATH (e.g., 'validation_data' if in same dir)
+VALIDATION_IMAGES_DIR ='validation_data' # <--- IMPORTANT: SET THIS PATH (e.g., 'validation_data' if in same dir)
 
 # --- Load Model Function ---
 @st.cache_resource
