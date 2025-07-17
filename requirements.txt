@@ -1,4 +1,5 @@
 streamlit
+seaborn
 matplotlib
 opencv-python-headless
 numpy
